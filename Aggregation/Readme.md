@@ -1,1 +1,1 @@
-Contains the file related to one repl assignment named "Using Aggregation".
+Contains the files related to one repl assignment named "Using Aggregation".
