@@ -19,6 +19,6 @@
 * Generate a test class for the Receipt class, and write a test to ensure the constructor is working properly.
 * Write a test class for the ReceiptList class that includes at least two tests for two different methods in the class. 
  
-## Step 4 - Score
+## Step 4 - Creating Test Suit
 
 * Write a test suit that runs all the tests
