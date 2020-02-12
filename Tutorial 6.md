@@ -3,8 +3,10 @@
 ## Step 1
 
 * Create a new repository for the repository from the link in blackboard.
-* Connect the new repository to your eclips.
-* Find the 2 packages, Line and Aggregation.
+* Find the 2 folders, Line and Aggregation.
+* Create a new project in eclipse.
+* Create two different packages name line and Aggregation.
+* Import or add the files in the appropreate packages. (Files for line within line package and so on.)
 
 ## Step 2 - Line
 
